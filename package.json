@@ -1,0 +1,19 @@
+{
+  "name": "dialogbox",
+  "version": "1.0.0",
+  "description": "Opening, Saving and Deleting Files",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhileshkr797/DialogBox.git"
+  },
+  "author": "akhilesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhileshkr797/DialogBox/issues"
+  },
+  "homepage": "https://github.com/akhileshkr797/DialogBox#readme"
+}
