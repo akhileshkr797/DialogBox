@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/akhileshkr797/DialogBox/issues"
   },
-  "homepage": "https://github.com/akhileshkr797/DialogBox#readme"
+  "homepage": "https://github.com/akhileshkr797/DialogBox#readme",
+  "dependencies": {}
 }
